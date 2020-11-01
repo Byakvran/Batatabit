@@ -4,8 +4,8 @@
 	--soft-orange: #ffe9d5;
 	--secondary-blue: #1a9af7;
 	--soft-blue: #e7f5ff;
-	--warm-black: #201e1c;
-	--black: #282623;
+	--warm-black: #282623;
+	--black: #201e1c;
 	--grey: #bababa;
 	--off-white: #faf8f7;
 	--just-white: #fff;
@@ -366,7 +366,7 @@ main {
 	height: 152px;
 	margin: 15px auto;
 	padding: 15px;
-	background-color: var(--warm-black);
+	background-color: var(--black);
 	border-radius: 4px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);
 }
